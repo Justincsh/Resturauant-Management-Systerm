@@ -1,39 +1,16 @@
-## Welcome to GitHub Pages
+## Restaurant Management System
 
-You can use the [editor on GitHub](https://github.com/Justincsh/Resturauant-Management-Systerm/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# 开发目标
+纯粹是两个人练练手而已，路过的看客就投个闭呗。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 实现功能
+## 1.管理服务人员信息
+## 2.管理餐厅VIP会员
+## 3.计算餐厅营业额
 
-### Markdown
+## 使用外设
+编写语言Java，估计会用到SQL，但是两个傻逼现在连GUI都还没会，两个人还在摸索，只能边玩边学了。GITHUB上大神多，见笑了！
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Justincsh/Resturauant-Management-Systerm/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-test begin
+# 贡献者
+Justincsh
+hunterteaegg
